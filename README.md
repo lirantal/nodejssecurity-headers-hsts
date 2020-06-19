@@ -12,7 +12,7 @@ We will be using [Heroku](https://www.heroku.com/) as our hosting platform for a
 
 Obtain the source code from the official GitHub repository at: https://github.com/lirantal/nodejssecurity-headers-hsts.
 
-We will use the top-level `strict-transport-security-heroku` directory, which contains:
+Once you cloned the repository, the overall projects file structure that you should be aware of is:
 
 1. An express server in `server.js`
 2. A handlebars template in `views/home.handlebars` which serves an example website
