@@ -10,7 +10,7 @@ We will be using [Heroku](https://www.heroku.com/) as our hosting platform for a
 
 ## Source code
 
-Obtain the source code from the official GitHub repository at: https://github.com/lirantal/nodejssecurity-headers.
+Obtain the source code from the official GitHub repository at: https://github.com/lirantal/nodejssecurity-headers-hsts.
 
 We will use the top-level `strict-transport-security-heroku` directory, which contains:
 
