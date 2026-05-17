@@ -61,3 +61,7 @@ What changed in contrast to exercise 1 before?
 - `Strict-Transport-Security` is set, but with an expiration time of 0, which disables it.
 - The unsplash image is loaded from HTTP directly, without any redirect
 - The favicon is fetched and displayed for the website
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
